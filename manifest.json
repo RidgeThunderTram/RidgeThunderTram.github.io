@@ -1,0 +1,26 @@
+{
+  "name": "MTProto Сигнал: 78 рабочих MTProxy для Telegram, обновлено 15:33 МСК",
+  "short_name": "MTProto Сигнал",
+  "description": "78 живых прокси для Телеграма на MTProto Сигнал. Проверка доступности, пинг, подключение через официальный клиент Telegram без VPN и регистрации.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf8f4",
+  "theme_color": "#9d7225",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
